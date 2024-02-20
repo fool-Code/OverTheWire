@@ -24,5 +24,6 @@ bandit11
 JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 bandit12
 wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+No key need for bandit14, use -i on ssh and pass the private key 
 bandit13
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
